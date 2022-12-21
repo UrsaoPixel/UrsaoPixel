@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, my name is Guilherme, welcome to my Github profile 👋
+##
+ 
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-rod-bueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/randomart_e/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gui.rod.bueno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<!--
-**UrsaoPixel/UrsaoPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsaoPixel&layout=compact&langs_count=7&theme=dracula"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and technologies I use most often 🐻
+##
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
+
+##
+<p>I am currently studying for a degree in Systems Analysis and Development, in the third semester 🖥️</p>
+<p>Lover of technology and art, especially pixel art 👾</p>
