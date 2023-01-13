@@ -10,6 +10,7 @@
 <div>
  <a href="https://github.com/UrsaoPixel">
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrsaoPixel&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=UrsaoPixel&show_icons=true&theme=radical"/>
 </div>
 
 ### Languages and technologies I use most often 🐻
